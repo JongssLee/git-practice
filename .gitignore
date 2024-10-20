@@ -1,52 +1,23 @@
-# Prerequisites
-*.d
+# git ignore for python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.egg-info
+dist
+build
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+*.swk
+*.swt
+*.sws
+*.swb
+*.swa
+*.swg
+*.swf
+*.swe
+*.swd
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
