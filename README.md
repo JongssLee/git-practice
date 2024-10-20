@@ -1,2 +1,2 @@
 # Open Source
-This is an open source project. You can read the code and use it in your own projects. If you want to contribute, you can do so by creating a pull request. If you have any questions, you can create an issue.
+This is an repository for open source class.
